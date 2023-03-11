@@ -1,4 +1,4 @@
-This is a place for me to put my various QMK firmware profiles and compiled .hex files.
+This is a place for me to put my various QMK firmware profiles and compiled .hex files, plus a few .uf2 files for other types of keyboards. (It's weird that people hardly ever make the compiled firmware files available for download, right?)
 
 The easiest way to flash firmware (that has already been compiled) is with the [QMK Toolbox](github.com/qmk/qmk_toolbox).
 
