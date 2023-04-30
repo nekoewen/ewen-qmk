@@ -17,5 +17,5 @@ SRC += sten.c
 EXTRAFLAGS += -flto
 LTO_ENABLE = yes
 
-OLED_ENABLE = no
+OLED_ENABLE = yes
 OLED_DRIVER = SSD1306
