@@ -1,4 +1,4 @@
-This is a place for me to put my various QMK firmware profiles and compiled .hex files, plus a few .uf2 files for using RP2040-based boards. (It's weird that people hardly ever make the compiled firmware files available for download, right?)
+This is a place for me to put my various QMK firmware profiles and compiled .hex files, plus a few .uf2 files for using RP2040-based boards. (It's weird that people hardly ever make the compiled firmware files available for download, right?) Also check out [this repo](https://github.com/Xelus22/QMK-VIA-Hex) for pre-compiled VIA firmware for tons of keyboards!
 
 The easiest way to flash firmware (that has already been compiled) is with the [QMK Toolbox](github.com/qmk/qmk_toolbox).
 
