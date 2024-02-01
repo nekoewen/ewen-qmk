@@ -8,4 +8,4 @@ Install the Toolbox application, then open the .hex file. Check the "Auto-Flash"
 
 For those RP2040-based boards, you just put the board into bootloader mode and drop the file into the drive that appears.
 
-Thanks to XDeckerX for creating [compiled KLOR firmware]{https://github.com/XDeckerX/klor-ready-with-lighting/tree/main}!
+Thanks to XDeckerX for creating [compiled KLOR firmware](https://github.com/XDeckerX/klor-ready-with-lighting/tree/main)!
