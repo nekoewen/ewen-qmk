@@ -7,3 +7,5 @@ Install the Toolbox application, then open the .hex file. Check the "Auto-Flash"
 ![A screenshot of QMK Toolbox with the Open and Auto-Flash controls circled in red](https://github.com/nekoewen/ewen-qmk/blob/main/qmk%20toolbox%20example.png)
 
 For those RP2040-based boards, you just put the board into bootloader mode and drop the file into the drive that appears.
+
+Thanks to XDeckerX for creating [compiled KLOR firmware]{https://github.com/XDeckerX/klor-ready-with-lighting/tree/main}!
