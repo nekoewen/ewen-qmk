@@ -4,6 +4,8 @@
 
 Chouchou (Japanese for butterfly) is a minimalist unibody keyboard designed to be used with the [Taipo](https://inkeys.wiki/en/keymaps/taipo) layout.
 
+Note: To compile the dlip layout that uses Taipo, you'll need to copy the users/dlip folder into your QMK installation.
+
 - [Github repo](https://github.com/dlip/chouchou)
 - Keyboard Maintainer: [Dane Lipscombe](https://github.com/dlip)
 
